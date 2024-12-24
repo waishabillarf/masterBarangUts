@@ -17,7 +17,7 @@
             <div class="col-md-6">
                 <div class="card bg-light mb-3">
                     <div class="card-body">
-                        <p class="fs-5"><strong>Nama :</strong> Cloud Computing</p>
+                        <p class="fs-5"><strong>Judul :</strong> Cloud Computing</p>
                         <p class="fs-5"><strong>NIM  :</strong> 1204220074</p>
                         <p class="fs-5"><strong>Prodi :</strong> Fakultas Rekayasa Industri </p>
                         <p class="fs-5"><strong>Kelas :</strong> SISFOR </p>
