@@ -17,10 +17,10 @@
             <div class="col-md-6">
                 <div class="card bg-light mb-3">
                     <div class="card-body">
-                        <p class="fs-5"><strong>Judul :</strong> Cloud Computing</p>
-                        <p class="fs-5"><strong>Lha embo  :</strong> opo jare</p>
-                        <p class="fs-5"><strong>Prodi :</strong> Fakultas Rekayasa Industri </p>
-                        <p class="fs-5"><strong>Kelas :</strong> 02 </p>
+                        <p class="fs-5"><strong>Anggota :</strong> Ahmad Sukron Faishal Ashari</p>
+                        <p class="fs-5"><strong>Anggota :</strong> Waishabilla Rahadian Firdaus</p>
+                        <p class="fs-5"><strong>Anggota :</strong> Muhammad Rayhan Labib Afifi</p>
+                        <p class="fs-5"><strong>Anggota :</strong> Muhammad Gabriel Araaf</p>
                     </div>
                 </div>
             </div>
