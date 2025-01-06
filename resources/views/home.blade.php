@@ -18,7 +18,7 @@
                 <div class="card bg-light mb-3">
                     <div class="card-body">
                         <p class="fs-5"><strong>Anggota :</strong> Ahmad Sukron Faishal Ashari</p>
-                        <p class="fs-5"><strong>Anggota :</strong> Waishabilla Rahadian Firdaus</p>
+                        <p class="fs-5"><strong>Anggota :</strong> Waishabilla Rahadian Firdauss</p>
                         <p class="fs-5"><strong>Anggota :</strong> Muhammad Rayhan Labib Afifi</p>
                         <p class="fs-5"><strong>Anggota :</strong> Muhammad Gabriel Araaf</p>
                     </div>
